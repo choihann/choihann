@@ -2,8 +2,7 @@
 - 👀 I’m interested in AI research and reading.
 - 🌱 I’m currently learning C++ data structures.
 - 💞️ I’m looking to collaborate on entry-level projects.
-- 📫 How to reach me
--   Email: hach5910@colorado.edu
+- 📫 How to reach me: hach5910@colorado.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love cats.
 
