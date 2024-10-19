@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanna Choi (@choihann)
 - 👀 I’m interested in AI research and reading.
-- 🌱 I’m currently learning C++ data structures.
+- 🌱 I’m currently learning about data structures.
 - 💞️ I’m looking to collaborate on entry-level projects.
 - 📫 How to reach me: hach5910@colorado.edu
 - 😄 Pronouns: she/her
